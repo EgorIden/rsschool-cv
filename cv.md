@@ -6,4 +6,4 @@
 * **Code examples:** **https://github.com/EgorIden**
 * **Experience:** Github pet-projects
 * **Education:** Tomsk Polytechnic University, Swiftbook, Skillbox, Udacity
-* **English:** Read documentation watch videos on English
+* **English:** Read documentation and watch videos
